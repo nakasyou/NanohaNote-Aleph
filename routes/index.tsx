@@ -1,5 +1,5 @@
 import { Head, Link } from "aleph/react";
-
+import 'https://esm.sh/@material/web/button/filled-button.js';
 const externalLinks = [
   ["Get Started", "https://alephjs.org/docs/get-started"],
   ["Docs", "https://alephjs.org/docs"],
